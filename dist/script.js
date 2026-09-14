@@ -7,7 +7,8 @@ const products = [
   { name: "Proteção", description: "Uma palavra de significado forte transformada em joia para acompanhar histórias e momentos especiais.", images: ["assets/products/protecao.webp"] },
   { name: "Pulseira Hope", description: "A palavra Hope em uma pulseira delicada, fotografada sob luz natural para evidenciar seus detalhes.", images: ["assets/products/pulseira-hope-sol.webp"] },
   { name: "Pulseira Preta", description: "Pulseira preta com detalhes prateados e visual contemporâneo. Consulte os canais oficiais para conhecer as opções.", images: ["assets/products/pulseira-preta.webp"] },
-  { name: "Colar Respeito", description: "A palavra Respeito em uma peça de traço marcante, apresentada sob luz natural para destacar o acabamento.", images: ["assets/products/colar-respeito-pedra.webp"] }
+  { name: "Colar Respeito", description: "A palavra Respeito em uma peça de traço marcante, apresentada sob luz natural para destacar o acabamento.", images: ["assets/products/colar-respeito-pedra.webp"] },
+  { name: "Colar Mapa do Brasil", description: "O contorno do Brasil transformado em uma joia de identidade e afeto, apresentado em três fotografias para revelar seus detalhes.", images: ["assets/products/colar-mapa-brasil-folha.webp", "assets/products/colar-mapa-brasil-flor.webp", "assets/products/colar-mapa-brasil-modelo.webp"] }
 ];
 
 const menu = document.querySelector("#menu");
