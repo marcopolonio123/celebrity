@@ -1,0 +1,13 @@
+CELEBRITY JOIAS — VERSÃO HTML ESTÁTICA PRETO E PRATA
+
+COMO ABRIR:
+1. Descompacte todo o arquivo ZIP.
+2. Abra a pasta Celebrity-Joias-HTML-Estatico-Branco-v17.
+3. Clique duas vezes no arquivo index.html.
+
+Não é necessário instalar Node.js, npm ou qualquer outro programa.
+
+IMPORTANTE:
+- Mantenha index.html, styles.css, script.js e a pasta assets juntos.
+- É necessária conexão com a internet para carregar as fotografias dos produtos e abrir os links externos.
+- O formulário abre o programa de e-mail configurado no computador.
