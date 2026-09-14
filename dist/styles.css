@@ -25,3 +25,10 @@ nav a:hover{color:#d7d9db}
 @media(max-width:900px){.modal-gallery>.modal-art{height:auto}.modal-thumbnails{justify-content:flex-start}.thumbnail{min-width:64px;min-height:64px}}
 
 @media(max-width:600px){.product-thumbnails{padding:10px 12px 0}.thumbnail{flex-basis:58px;width:58px;height:58px}.modal-thumbnails .thumbnail{flex-basis:64px;width:64px;height:64px}}
+
+/* Enquadramento preenchido dos cards, com foco ajustado por produto */
+.product .visual img{object-fit:cover;padding:0;object-position:center}
+.product[data-product="3"] .visual img{object-position:center 58%}
+.product[data-product="6"] .visual img{object-position:center 64%}
+.product[data-product="8"] .visual img{object-position:center 56%}
+.product[data-product="9"] .visual img{object-position:center 64%}
